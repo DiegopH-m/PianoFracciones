@@ -3,6 +3,7 @@
 }
 
 body {
+  zoom: 33%;
   background-color: #143F6B;
   margin: 0;
   min-height: 100vh;
@@ -71,6 +72,9 @@ input[type=text]{
 
 .black.active {
   background-color: #333;
+}
+.separator{
+  height:500px;
 }
 #Timer{
   height: 100px;
